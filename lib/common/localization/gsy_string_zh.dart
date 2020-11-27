@@ -6,10 +6,10 @@ import 'package:gsy_github_app_flutter/common/localization/gsy_string_base.dart'
  */
 class GSYStringZh extends GSYStringBase {
   @override
-  String welcomeMessage = "Welcome To Flutter";
+  String welcomeMessage = "this is Welcome";
 
   @override
-  String app_name = "GSYGithubApp";
+  String app_name = "GitCat";
 
   @override
   String app_ok = "确定";

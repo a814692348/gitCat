@@ -49,7 +49,7 @@ class _WelcomePageState extends State<WelcomePage> {
     });
     new Future.delayed(const Duration(seconds: 1, milliseconds: 500), () {
       setState(() {
-        text = "GSYGithubApp";
+        text = "GitCat";
         fontSize = 60;
       });
     });
